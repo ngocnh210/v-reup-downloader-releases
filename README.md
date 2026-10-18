@@ -10,6 +10,8 @@ Tool download videos đa nền tảng
 
 
 <img width="2559" height="1403" alt="image" src="https://github.com/user-attachments/assets/b6a34099-d2e6-4541-9c7b-f60205cc616a" />
-<img width="2559" height="1404" alt="image" src="https://github.com/user-attachments/assets/7da89ce5-4a86-411b-add5-19e9cdc83128" />
-<img width="2559" height="1400" alt="image" src="https://github.com/user-attachments/assets/811b3c07-0463-4ac6-9836-68ec8e11e877" />
-<img width="2559" height="1400" alt="image" src="https://github.com/user-attachments/assets/05616d43-e1e9-467a-8d35-7b73a5b6bf69" />
+<img width="2558" height="1395" alt="image" src="https://github.com/user-attachments/assets/f14859cb-9a23-4976-beb5-74f3a9280bf0" />
+<img width="2559" height="1400" alt="image" src="https://github.com/user-attachments/assets/9e9f958f-4808-42eb-8a6f-3703dcf93762" />
+<img width="2559" height="1396" alt="image" src="https://github.com/user-attachments/assets/6e656594-8b1c-47de-af1e-5034df3227a5" />
+<img width="2559" height="1399" alt="image" src="https://github.com/user-attachments/assets/6e3fdec9-f56d-4364-989a-06689ea457ec" />
+<img width="2559" height="1397" alt="image" src="https://github.com/user-attachments/assets/438f40ee-5a7a-4f75-956e-37ed97bf6e69" />
